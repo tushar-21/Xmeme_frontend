@@ -140,7 +140,7 @@ const Base = ({ title = "X Meme", description = "New kind of Media",
            <div className="row ">
             {memes.map((meme,index)=> {
                 return(
-                  <div id="cards" key={index} className="col-12 mb-4">
+                  <div id="cards" key={index} className="col-4 mb-4">
                     
                    <Card meme={meme} />
 

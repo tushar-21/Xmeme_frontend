@@ -17,56 +17,42 @@ body {
 
 #bd {
   /* #004953 */
-  background-color :#edb33d;
+  background-color: #edb33d;
   border-radius: 3%;
   opacity: 0.8;
-  height : 500px;
-  width : 300px;
- 
 }
 
-#cp
-{
-    margin-top: 5px;
-    /* background-color: black; */
-    font-size: 23px;
-    color:#5e3e10;
-    font-weight: bold;
-    text-align: justify;
+#cp {
+  margin-top: 5px;
+  /* background-color: black; */
+  font-size: 23px;
+  color: #5e3e10;
+  font-weight: bold;
+  text-align: justify;
 }
-#title
-{
-
+#title {
   color: black;
   float: right;
   font-size: 22px;
   text-decoration: overline;
   position: absolute;
   bottom: 8%;
-  
-  
 }
-#Rm
-{
-  text-decoration: overline ;
+#Rm {
+  text-decoration: overline;
   font-size: 40px;
   margin-bottom: 20px;
 }
-#pic
-{
-  display: block;
+#pic {
+  object-fit: stretch;
 }
-#cards-row
-{
+#cards-row {
   margin-left: 30px;
 }
-#cards{
-
+#cards {
   margin-left: 400px;
-
 }
-#edit
-{
+#edit {
   position: absolute;
   bottom: 5%;
 }
