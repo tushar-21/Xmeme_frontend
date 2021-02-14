@@ -123,7 +123,7 @@ const Base = ({match}) => {
       <div>
         <div className="container-fluid m-0 p-0">
             <div className="jumbotron bg-dark text-white text-center">
-                <h2 className="display-3">dsd</h2>
+                <h2 className="display-3">Update Your Meme Here</h2>
                 <p className="lead">dasda</p>
             </div>  
         </div>
